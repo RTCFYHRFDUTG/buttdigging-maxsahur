@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="TUNG" camx="500" icon="triple t 1">
+	<anim name="idle" anim="idle" x="-749" y="-64"/>
+	<anim name="singDOWN" anim="down" x="-746" y="-61"/>
+	<anim name="singRIGHT" anim="right" x="-738" y="-61"/>
+	<anim name="singLEFT" anim="left" x="-759" y="-57"/>
+	<anim name="singUP" anim="up" x="-739" y="-64"/>
+</character>
